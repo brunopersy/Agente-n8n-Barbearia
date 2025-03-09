@@ -19,7 +19,7 @@
  * Monitoramento e gestão do negócio em tempo real.
  
  ## Arquitetura
-![Click](https://drive.google.com/file/d/1C2C-yCkEcmnFruIdrsa0WJgBP4sPaN1D/view)
+![Click](https://github.com/brunopersy/Agente-n8n-Barbearia/blob/main/imagens/arquitetura.png)
  ## Fluxos de Trabalho
  
  * **Fluxo de Atendimento Inicial e Agendamento:**
