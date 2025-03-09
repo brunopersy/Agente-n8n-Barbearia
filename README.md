@@ -1,3 +1,6 @@
+#Em construção 
+
+
 # Sistema de Atendimento para Barbearias com IA usando n8n
  
  **Automatize o agendamento, a comunicação e a gestão da sua barbearia com IA e n8n.**
