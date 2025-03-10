@@ -53,6 +53,9 @@
     ├── manutencao-e-suporte.md
     ├── glossario.md
     └── apendice.md
+└──imagens
+LICENSE
+README.md
 ```
     
 ## Descrição das Pastas:
@@ -77,7 +80,7 @@
  
  ## Documentação
  
- Para mais detalhes, consulte a [documentação completa](./docs).
+ Para mais detalhes, consulte a [documentação completa](https://brunopersy.github.io/Agente-n8n-Barbearia/).
  
  ## Contribuição
  
